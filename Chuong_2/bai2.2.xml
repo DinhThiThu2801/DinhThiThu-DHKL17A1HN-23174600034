@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ds-sinhvien>
     <sinhvien>
-      <masv>22174600024</masv>
-      <tensv>Ho Thi Minh Hang</tensv>
-      <namsinh>2004</namsinh>
-      <lop>DHKL16A2HN</lop>
+      <masv>23174600034</masv>
+      <tensv>Dinh Thi Thu</tensv>
+      <namsinh>2005</namsinh>
+      <lop>DHKL17A1HN</lop>
       <gioitinh>Nu</gioitinh>
     </sinhvien>
   
     <sinhvien>
-        <masv>22174600098</masv>
-        <tensv>Doan Thi Kim Anh</tensv>
-        <namsinh>2004</namsinh>
-        <lop>DHKL16A2HN</lop>
+        <masv>23174600005</masv>
+        <tensv>Nguyen Thi Kim Anh</tensv>
+        <namsinh>2005</namsinh>
+        <lop>DHKL17A1HN</lop>
         <gioitinh>Nu</gioitinh>
     </sinhvien>
   
