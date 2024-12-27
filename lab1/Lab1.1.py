@@ -2,6 +2,7 @@ import xml.etree.ElementTree as ET
 
 class XMLReader:
     def __init__(self, file_path):
+        file_path = 'E:\DinhThiThu-DHKL17A1HN-23174600034\lab1\products.xml'
         self.file_path = file_path
         self.data = None
     

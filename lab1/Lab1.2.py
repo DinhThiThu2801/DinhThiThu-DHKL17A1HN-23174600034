@@ -1,6 +1,7 @@
 import json
 class JSONReader:
     def __init__(self, file_path):
+        file_path = 'E:\DinhThiThu-DHKL17A1HN-23174600034\lab1\users.json'
         self.file_path = file_path
         self.data = None
     
